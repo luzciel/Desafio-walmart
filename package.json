@@ -1,0 +1,19 @@
+{
+  "name": "desafio-walmart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luzciel/Desafio-walmart.git"
+  },
+  "author": "Luzciel Montesinos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luzciel/Desafio-walmart/issues"
+  },
+  "homepage": "https://github.com/luzciel/Desafio-walmart#readme"
+}
